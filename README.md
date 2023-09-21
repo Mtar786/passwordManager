@@ -1,7 +1,7 @@
 # passx-password-manager
 # PassX - Your Personal Password Manager
 
-!<img width="849" alt="Screenshot 2023-09-21 132042" src="https://github.com/Mtar786/passwordManager/assets/86746302/8c385893-310c-40ce-a0fc-ce17967784dd">
+<img width="849" alt="Screenshot 2023-09-21 132042" src="https://github.com/Mtar786/passwordManager/assets/86746302/8c385893-310c-40ce-a0fc-ce17967784dd">
 .png)
 
 PassX is a simple and secure password manager designed to help you manage your ever-growing list of passwords effortlessly. With PassX, you can securely store and retrieve your login information for various websites, making your digital life more convenient and secure.
