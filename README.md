@@ -1,4 +1,3 @@
-# passx-password-manager
 # PassX - Your Personal Password Manager
 
 <img width="849" alt="Screenshot 2023-09-21 132042" src="https://github.com/Mtar786/passwordManager/assets/86746302/8c385893-310c-40ce-a0fc-ce17967784dd">
