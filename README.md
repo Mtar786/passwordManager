@@ -1,6 +1,6 @@
 # PassX - Your Personal Password Manager
 
-   Link to website: https://mtar786.github.io/passwordManager/
+Link to website: https://mtar786.github.io/passwordManager/
 
 <img width="849" alt="Screenshot 2023-09-21 132042" src="https://github.com/Mtar786/passwordManager/assets/86746302/8c385893-310c-40ce-a0fc-ce17967784dd">
 .png)
